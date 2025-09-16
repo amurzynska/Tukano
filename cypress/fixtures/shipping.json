@@ -1,0 +1,12 @@
+{
+  "firstName": "Jan",
+  "lastName": "Kowalski",
+  "email": "jkowalski@gmail.com",
+  "phone": "+48555555555",
+  "country": "Poland",
+  "line1": "Tarnowska 18",
+  "city": "Nowy Sącz",
+  "state": "Podkarpackie Voivodeship",
+  "zipcode": "33-300",
+  "shippingOption": "#shipping-International"
+}
